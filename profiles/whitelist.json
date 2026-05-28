@@ -1,0 +1,34 @@
+{
+    "WhitelistedUsers": {
+        "8afbf896a790b2cf4e82595434a36ab33baa52707633df3c1d91bf55900a1809a4ef5bf61869d7729bc6d2aa66c2fcd004bf0a564fb40b3d055c54a0616b9d38": {
+            "author": "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69",
+            "attackable": true,
+            "level": 999,
+            "tags": [
+                {
+                    "text": "CATVAPE OWNER",
+                    "color": [
+                        255,
+                        50,
+                        50
+                    ]
+                }
+            ]
+        },
+        "69d02d3b18d1cb6269d1db817120a675e7d5a75f0c032b79506377e038eacafac04261f8d706c811d8dced552b5e9404064890295e433c2bc62f9e1033453ff5": {
+            "author": "1abf2512e341266890ce946b2bdbada36ff9f3c88252ac0fc4a075a94154d0a30c31e05d4cc1f8fae9f5b26d87427965a1f395b3f645ad3a786fb2fd28a1df69",
+            "attackable": false,
+            "level": 1,
+            "tags": [
+                {
+                    "text": "z",
+                    "color": [
+                        255,
+                        255,
+                        255
+                    ]
+                }
+            ]
+        }
+    }
+}
